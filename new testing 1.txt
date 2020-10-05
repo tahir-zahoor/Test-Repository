@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 --new branch enhacement commit
+=======
+---master branch commit
+>>>>>>> master
